@@ -1,0 +1,10 @@
+{
+    "env" : {
+        "MYSQL_USER" : "bd29036310d506",
+       "MYSQL_PASSWORD" : "71f9d923",
+        "MYSQL_DATABASE" : "heroku_fd7e5e688f7a851",
+        "MYSQL_HOST" : "us-cluster-east-01.k8s.cleardb.net",
+        "MYSQL_PORT" : 3306,
+        "JWT_KEY" : "segredo"
+    }
+}
